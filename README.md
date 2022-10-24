@@ -5,7 +5,7 @@
 
 ## Setup
 - Install web server: xampp, apache, nginx
-- Run : git clone
+- Run : git clone link_project
 - Run : composer install
 - Run : php key:generate
 
