@@ -1,5 +1,5 @@
 # GOLDENOWL SNEAKER - Shopping Cart 
-## Technology in use
+## Technology used
 - Backend: PHP, Laravel
 - Frontend: HTML, CSS, Javascript, Jquery
 
